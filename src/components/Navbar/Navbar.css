@@ -1,0 +1,12 @@
+ul li {
+  margin: auto;
+  font-weight: bold;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+.button-custom {
+  background: #ff8a00;
+  color: white;
+  border-radius: 50px;
+}

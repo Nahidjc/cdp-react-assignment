@@ -1,0 +1,28 @@
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #373737;
+}
+
+.about-me {
+  width: 577px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+.button {
+  border: 1px solid #000000;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #1e1e1e;
+}
